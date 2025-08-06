@@ -2,8 +2,8 @@
 #define CONFIG_H
 
 // WiFi Configuration
-#define WIFI_SSID "WINS"
-#define WIFI_PASSWORD "WINNER20"
+#define WIFI_SSID "MAN'S"
+#define WIFI_PASSWORD "mana12345678"
 
 // Web Server Configuration
 #define WEB_SERVER_PORT 80
@@ -15,8 +15,8 @@
 
 // Tank Level Thresholds (percentage)
 #define LOW_LEVEL_THRESHOLD 20
-#define MEDIUM_LEVEL_THRESHOLD 70
-#define HIGH_LEVEL_THRESHOLD 100
+#define MEDIUM_LEVEL_THRESHOLD 50
+#define HIGH_LEVEL_THRESHOLD 80
 
 // Pin Definitions
 // Water Sensors (ADC pins ESP32-S3)
